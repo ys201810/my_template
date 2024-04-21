@@ -21,7 +21,7 @@ my_template/
   ┗ my_template/
      ┣ settings.py  # 環境変数の読み込み
      ┗ main.py
-
 ```
 
-## 
+## 参考情報
+
